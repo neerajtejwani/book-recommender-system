@@ -1,2 +1,2 @@
 # book-recommender-system
-A simple book recommender system using user rating data. This project uses cosine similarity on average user ratings to suggest books with similar reader preferences. Built with Python and pandas for data manipulation and scikit-learn for similarity computations.
+A web-based book recommendation system that suggests books based on user rating patterns. The backend uses cosine similarity on average user ratings to find similar readers and recommend books accordingly. The frontend is built using HTML to allow users to explore recommendations in an intuitive way.
